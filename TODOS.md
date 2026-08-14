@@ -122,7 +122,7 @@ it. Training compute and licensed data remain a separate, external problem.
       (`model/training/contrastive.py`).
 - [ ] Wire the contrastive trainer into `build.py` as a `--mode pretrain-vision` entry point.
 - [ ] Extend interleaved placement to the generation path, not just understanding.
-- [ ] Example image and audio caption datasets with real media.
+- [x] Example image and audio caption datasets with real media.
 
 ### Evaluation
 
